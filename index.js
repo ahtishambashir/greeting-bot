@@ -20,5 +20,12 @@ console.log(nicknameIntroduction);
 
 bot = "awesomeTeacherBot";
 
-let newNicknameGreeting = "I love my nickname but I wish people would call me " + bot + ".";
+const newNicknameGreeting = "I love my nickname but I wish people would call me " + bot + ".";
 console.log(newNicknameGreeting);
+
+const favoriteSubject = "Computer Science";
+
+const favoriteSubjectSentence = "My favorite subject is " + favoriteSubject + ".";
+console.log(favoriteSubjectSentence);
+
+console.log("Well, it was nice to talk to you. Have a nice day!");
